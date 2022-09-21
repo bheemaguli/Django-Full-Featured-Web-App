@@ -1,0 +1,7 @@
+{% extends "blog/base.html" %}
+{% block content %}
+    <h1>About Page</h1>
+
+    {% load static %}
+    <img src="{% static 'blog/meme.jpg' %}" class="img-fluid mb-3" alt="I hate CSS">
+{% endblock content %}
