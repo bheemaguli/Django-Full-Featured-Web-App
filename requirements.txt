@@ -1,2 +1,4 @@
 django
 crispy-bootstrap5
+gunicorn
+whitenoise
