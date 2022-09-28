@@ -10,7 +10,7 @@ Project temporarily deployed at : https://django-full-featured-web-app.herokuapp
 - [x] Part 4 - Admin Page
 - [x] Part 5 - Database and Migrations
 - [x] Part 6 - User Registration
-- [ ] Part 7 - Login and Logout System
+- [x] Part 7 - Login and Logout System
 - [ ] Part 8 - User Profile and Picture
 - [ ] Part 9 - Update User Profile
 - [ ] Part 10 - Create, Update, and Delete Posts
