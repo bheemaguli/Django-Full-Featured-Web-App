@@ -13,7 +13,7 @@ Project temporarily deployed at : https://django-full-featured-web-app.herokuapp
 - [x] Part 7 - Login and Logout System
 - [x] Part 8 - User Profile and Picture
 - [x] Part 9 - Update User Profile
-- [ ] Part 10 - Create, Update, and Delete Posts
+- [x] Part 10 - Create, Update, and Delete Posts
 - [ ] Part 11 - Pagination
 - [ ] Part 12 - Email and Password Reset
 - [ ] Deploying Your Application (Option #1) - Deploy to a Linux Server
